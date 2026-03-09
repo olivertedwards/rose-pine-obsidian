@@ -1,4 +1,4 @@
-# Rosé Pine for Obsidian
+# Rosé Pine Minimal for Obsidian
 
 A clean, minimal Obsidian theme that brings the beautiful [Rosé Pine](https://rosepinetheme.com) palette to your notes; soft, cozy, and easy on the eyes.
 
